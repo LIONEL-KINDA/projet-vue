@@ -1,6 +1,6 @@
 // serveur.js
 import express from 'express';
-import mysql from 'mysql2';  // mysql2 est recommandé pour Node moderne
+import mysql from 'mysql2';  
 //import cors
 import cors from 'cors';
 const app = express();
